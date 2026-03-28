@@ -1,4 +1,4 @@
-Nama: Muhammad Rifqi
+Nama: Muhammad Rifqi Syahban Arzakhy
 NIM: 103012300418
 
 Tugas Laravel Web Framework 1
